@@ -4,6 +4,10 @@
 
 ---
 
+https://en.wikipedia.org/wiki/Georg_Cantor
+
+---
+
 ## Executive Overview
 
 Georg Cantor (1845–1918) did not merely discover transfinite mathematics. He identified—and constructed—the precise architectural boundary between what can be algorithmically enumerated and what must be assumed axiomatically. His life, his mathematics, and the systematic opposition he faced all converge on a single principle: **the Threshold Phenomenon**—the moment at which explicit construction yields to infinite descent, finite proof to axiom, and clarity to paradox.
